@@ -6,4 +6,4 @@
 ## Como executar
 Para executar a aplicação é necessário ter instalado o Go em sua máquina, caso não tenha você pode baixar em https://golang.org/doc/install. Quando já tiver o Go instalado basta ir no arquivo baixado e executar o comango go run sites.go
 
-<code><img height= "20"src= "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></code>
+<code><img height= "20" src= "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></code>
